@@ -7,7 +7,7 @@ This codebase is created for our submission to IC4IR 2021.
 
 The repository is organized as follow:
 * <code>images</code>contains all the digrams used in this study
-* <code>codes</code>contains pyhton script 
+* <code>codes</code>contains python script 
 * <code>readme.md</code>contains the description of this project
 
 
